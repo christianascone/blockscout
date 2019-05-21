@@ -32,6 +32,7 @@
 - [#1974](https://github.com/poanetwork/blockscout/pull/1974) - feat: previous page button logic
 - [#1999](https://github.com/poanetwork/blockscout/pull/1999) - load data async on addresses page
 - [#2002](https://github.com/poanetwork/blockscout/pull/2002) - Get estimated count of blocks when cache is empty
+- [#1991](https://github.com/poanetwork/blockscout/pull/1991) - Make CoinBalance's delta a non-virtual field
 
 ### Fixes
 
